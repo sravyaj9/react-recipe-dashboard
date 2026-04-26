@@ -1,0 +1,162 @@
+.home-container {
+  padding: 40px;
+  background-color: #FAFAFA;
+  min-height: 100vh;
+}
+
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Modal (Popup) Styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 550px;
+  max-height: 90vh;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+.close-btn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: #eee;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.close-btn:hover {
+  background: #ddd;
+}
+
+/* Full Recipe Details inside Popup */
+.full-recipe-details {
+  text-align: left;
+  margin-top: 15px;
+  overflow-y: auto;  
+  padding-right: 10px;
+  flex-grow: 1;
+}
+
+.recipe-section h3 {
+  color: #1A5D3A;
+  margin-bottom: 10px;
+  font-size: 18px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+.ingredient-list, .instruction-list {
+  padding-left: 20px;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.modal-notes-box {
+  background: #FFF9F2;
+  border-left: 4px solid #1A5D3A;
+  padding: 10px 15px;
+  margin-top: 20px;
+  font-size: 13px;
+  flex-shrink: 0;
+}
+
+/* --- Acknowledgments & Feedback Section --- */
+.acknowledgments-section {
+  display: flex;
+  gap: 30px;
+  max-width: 1200px;
+  margin: 60px auto 20px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.feedback-card {
+  flex: 1; 
+  padding: 25px;
+  background-color: #FFF9F2;
+  border-radius: 8px;
+  border-left: 5px solid #D35400; 
+}
+
+.feedback-card.tech-card {
+  border-left: 5px solid #1A5D3A; 
+}
+
+.feedback-card h3 {
+  color: #2D5A27;
+  margin-top: 0;
+  font-size: 18px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #E5E5E5;
+  padding-bottom: 10px;
+}
+
+.feedback-card p {
+  color: #444;
+  line-height: 1.6;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+/* Mobile Responsiveness: Stacks them vertically on small screens */
+@media (max-width: 768px) {
+  .acknowledgments-section {
+    flex-direction: column;
+  }
+}
+
+/* --- Professional Footer --- */
+.portfolio-footer {
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 20px;
+  color: #666;
+  font-size: 15px;
+  border-top: 1px solid #E5E5E5;
+}
+
+.portfolio-footer strong {
+  color: #1A5D3A;
+}

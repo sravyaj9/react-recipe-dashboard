@@ -1,0 +1,471 @@
+[
+  {
+    "id": 1,
+    "title": "Atukula Burfi",
+    "category": "Sweets",
+    "image": "burfi.jpg",
+    "description": "A sweet, crispy burfi made with thick poha and grated jaggery, garnished with cashews and almonds.",
+    "ingredients": [
+      "1 cup thick Poha (Atukulu)",
+      "10 pieces Cashews (Jeedi pappu)",
+      "1/2 tsp Cardamom powder (Yalukula podi)",
+      "125 ml Milk (Palu - without cream)",
+      "1/2 cup grated Jaggery (Bellam)"
+    ],
+    "instructions": [
+      "Heat a pan and dry roast the poha for 5-6 minutes until very crispy.",
+      "Transfer the hot poha to a plate and immediately add the cashews on top.",
+      "Once cooled to room temperature, grind into a fine powder in a mixer jar.",
+      "Transfer the powder to a bowl, add grated jaggery, and mix well.",
+      "Gradually add milk and knead it like chapati dough until smooth.",
+      "Flatten the mixture onto a plate, cut into pieces, and garnish with almonds or cashews."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vegetable Soup",
+    "category": "Soups",
+    "image": "veg-soup.jpg",
+    "description": "A comforting, thick soup loaded with cabbage, carrots, capsicum, and spring onions, flavored with garlic and black pepper.",
+    "ingredients": [
+      "1 tsp Ghee",
+      "1 tsp finely chopped Ginger",
+      "1/2 tsp finely chopped Garlic",
+      "1 small Onion (finely chopped)",
+      "1 Capsicum (finely chopped)",
+      "2 tbsp Carrot (finely chopped)",
+      "1/4 cup Cabbage (finely chopped)",
+      "1/2 tbsp Corn flour (mixed with a little water)",
+      "2 tbsp Spring Onions",
+      "1/2 tsp Black pepper powder",
+      "750ml - 850ml Water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat ghee in a pan. Add chopped garlic and ginger, and fry until light golden.",
+      "Add onions and lightly fry.",
+      "Add capsicum, carrot, and cabbage. Mix well on high flame.",
+      "Cover with a lid, reduce to low flame, and let it cook for 3 minutes.",
+      "Stir well, add water, and bring to a rolling boil until vegetables are soft.",
+      "Add salt to taste.",
+      "Mix corn flour with a little water in a small bowl, then pour it into the boiling soup to thicken.",
+      "Turn off the stove, add pepper powder, and garnish with spring onions."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Twisted Samosa",
+    "category": "Snacks",
+    "image": "samosa.jpg",
+    "description": "Deep-fried twisted samosas made with wheat flour and stuffed with a spiced mashed potato filling.",
+    "ingredients": [
+      "1 cup Wheat flour (Godhuma pindi)",
+      "2 tbsp Oil (or ghee/butter)",
+      "Pinch of Ajwain (Vamu)",
+      "Salt to taste",
+      "4 Potatoes (70-80% boiled and mashed)",
+      "1/2 tsp Dhaniya powder",
+      "1/2 tsp Jeera powder",
+      "1 tsp Red Chilli powder",
+      "1 tsp Garam Masala",
+      "2 tbsp Corn flour",
+      "1 tsp Kasuri methi",
+      "1 tsp Kashmiri Red chilli powder"
+    ],
+    "instructions": [
+      "Sift wheat flour into a bowl, add salt, ajwain, and hot oil. Mix well. Add water and knead into chapati dough, cover and rest for 15 mins.",
+      "Mash boiled potatoes in a bowl, add all dry spice powders, salt, and corn flour, and mix well.",
+      "Roll out the dough into a chapati.",
+      "Apply the aloo curry evenly over it, place another rolled chapati on top, and press the edges with a little water to seal.",
+      "Cut into 4 pieces, twist them, and deep fry until golden.",
+      "Serve hot with tomato ketchup."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Masala Toast Sandwich",
+    "category": "Snacks",
+    "image": "sandwich.jpg",
+    "description": "Mumbai-style toasted sandwich filled with a spicy potato and vegetable curry, served with cheese and green chutney.",
+    "ingredients": [
+      "3 large Potatoes (80% cooked and mashed)",
+      "1 Medium size Onion (chopped)",
+      "1 tbsp Tomato (chopped)",
+      "2 tbsp Oil",
+      "1 tbsp Capsicum (chopped)",
+      "1 tsp Ginger (pieces)",
+      "2 tbsp Green peas (cooked)",
+      "1 tbsp Sweet corn (cooked)",
+      "Pinch of Turmeric",
+      "1/2 tsp Garam masala",
+      "1/2 tsp Jeera powder",
+      "1 tsp Chilli powder",
+      "Coriander leaves",
+      "1/2 tsp Black pepper",
+      "1 tsp Chilli flakes",
+      "Salt to taste",
+      "Bread slices (3-4)",
+      "Butter/Ghee for toasting"
+    ],
+    "instructions": [
+      "Heat oil in a pan, add chopped onions and fry until transparent.",
+      "Add ginger, capsicum, and tomato, and fry well.",
+      "Add cooked sweet corn, green peas, mashed potatoes, and all dry spices (jeera, garam masala, chilli powder, pepper, turmeric, salt).",
+      "Mix everything into a thick curry and set aside.",
+      "Toast bread slices on both sides with ghee or butter in a pan.",
+      "Spread ketchup or green chutney on the bread. Add the curry filling (and optional cheese), top with another bread slice, and serve."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Green Chutney",
+    "category": "Snacks",
+    "image": "chutney.jpg",
+    "description": "A zesty and fresh dip made with fresh coriander, mint, ginger, and a bright kick of lemon juice.",
+    "ingredients": [
+      "1 cup Fresh Coriander (with tender stems)",
+      "1/2 cup Mint leaves (Pudina)",
+      "1-2 Green chillies",
+      "1/2 tsp Jeera powder",
+      "Small Ginger piece",
+      "Black Salt to taste",
+      "Normal Salt to taste",
+      "Lemon juice (few drops)",
+      "Pinch of Turmeric"
+    ],
+    "instructions": [
+      "Wash the coriander (including stems) and mint leaves thoroughly, and add to a mixer jar.",
+      "Add ginger, green chillies, black salt, and a pinch of turmeric.",
+      "Grind into a fine paste. Do not add too much water.",
+      "Add lemon juice and normal salt to taste, transfer to a bowl, and serve as a spread or dip."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Lemon Coriander Soup",
+    "category": "Soups",
+    "image": "lemon-coriander.jpg",
+    "description": "A refreshing aromatic soup with sweet corn, carrots, capsicum, and fresh coriander.",
+    "ingredients": [
+      "1 tbsp Oil/Butter",
+      "1 tsp Ginger Garlic paste",
+      "1 tbsp Capsicum (chopped)",
+      "2 Spring onions",
+      "1/2 tbsp Lemon juice",
+      "1 tsp White pepper powder",
+      "1 small Carrot (chopped)",
+      "1 tbsp Sweet corn",
+      "1 Green chilli (finely chopped)",
+      "1.5 cups Water",
+      "Salt to taste",
+      "1 tbsp Coriander leaves",
+      "1/2 tsp Aromatic powder",
+      "1 tsp Corn flour (mixed with water)"
+    ],
+    "instructions": [
+      "Heat oil/butter in a pan. Add ginger garlic paste, chopped green chilli, capsicum, carrot, boiled sweet corn, and spring onions. Fry well.",
+      "Add 1.5 cups of water and bring to a boil.",
+      "Add aromatic powder and white pepper powder.",
+      "Mix corn flour with a little water, pour into the boiling soup, and stir until thickened.",
+      "Turn off the stove, add fresh coriander and lemon juice."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bottle Gourd Soup",
+    "category": "Soups",
+    "image": "bottle-gourd.jpg",
+    "description": "A healthy, smooth blended soup made with bottle gourd and garlic, seasoned lightly with jeera and pepper.",
+    "ingredients": [
+      "450g Bottle Gourd (Sorakaya - peeled and chopped)",
+      "1 tbsp Oil",
+      "1/2 tsp Jeera",
+      "1/4 small Onion (chopped)",
+      "2 cups Water",
+      "Fresh Coriander",
+      "2-3 Garlic cloves",
+      "Few drops Lemon juice",
+      "Salt to taste",
+      "1/2 tsp Pepper powder"
+    ],
+    "instructions": [
+      "In a pressure cooker, add bottle gourd pieces, chopped onion, 1 clove of garlic, and 1 cup of water. Cook for 2-3 whistles. Let it cool.",
+      "Grind the cooked mixture into a smooth paste.",
+      "Heat oil in a pan, add jeera and remaining garlic cloves.",
+      "Add the ground paste, another 1 cup of water, salt, and pepper powder. Bring to a boil and skim off any foam that forms.",
+      "Garnish with coriander and turn off the heat."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Hot and Sour Soup",
+    "category": "Soups",
+    "image": "hot-sour.jpg",
+    "description": "A classic Indo-Chinese soup packed with veggies, mushrooms, soya sauce, and a spicy-sour kick from vinegar and chilli sauce.",
+    "ingredients": [
+      "2 tbsp Oil",
+      "500ml Water",
+      "2 Green chillies (finely chopped)",
+      "1/4 cup Cabbage (chopped)",
+      "2 tbsp Beans (chopped)",
+      "2 tbsp Carrot (chopped)",
+      "2 tbsp Mushrooms (chopped)",
+      "2 tbsp Baby corn (chopped)",
+      "1 tsp Soya Sauce",
+      "1/2 tsp Sugar",
+      "1/2 tsp White pepper powder",
+      "1/2 tsp Black pepper powder",
+      "1 tsp Red chilli sauce",
+      "2 tsp Corn flour (mixed with water)",
+      "1 tsp Vinegar (or lemon juice)",
+      "2 tbsp Spring onions"
+    ],
+    "instructions": [
+      "Heat 2 tbsp oil in a pan, add finely chopped green chillies and fry.",
+      "Add cabbage, beans, carrot, mushrooms, and baby corn. Fry on high flame for 5-8 mins.",
+      "Add 500ml water and bring to a boil. Add dark soya sauce, sugar, white pepper, black pepper, and red chilli sauce. Boil for 5 mins.",
+      "Mix corn flour with water to milk consistency and pour it into the boiling soup to thicken.",
+      "Turn off the stove, add vinegar/lemon juice and garnish with spring onions."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Sweet Corn Chaat",
+    "category": "Snacks",
+    "image": "corn-chaat.jpg",
+    "description": "A buttery, spicy street-style chaat made with boiled sweet corn, onions, tomatoes, and chat masala.",
+    "ingredients": [
+      "2 cups Sweet Corn (boiled with salt)",
+      "2 tbsp Butter",
+      "Medium size Onion (finely chopped)",
+      "Small Tomato (chopped)",
+      "1/2 tsp Red chilli powder",
+      "1/2 tsp Black pepper",
+      "1/2 tsp Chat Masala",
+      "Fresh Coriander (for garnish)",
+      "Lemon juice (few drops)",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil sweet corn in a cooker for 4 whistles with a little salt and water, then drain.",
+      "Heat butter in a pan, add the boiled sweet corn, and roast lightly. Transfer to a mixing bowl.",
+      "Add finely chopped onion, tomato, red chilli powder, chat masala, salt, and black pepper. Mix well.",
+      "Add lemon juice, garnish with fresh coriander, and serve immediately."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Rava Dhokla",
+    "category": "Snacks",
+    "image": "dhokla.jpg",
+    "description": "A soft, spongy steamed snack made from semolina, tempered with mustard seeds, sesame, and curry leaves.",
+    "ingredients": [
+      "1 cup Sooji (Rava)",
+      "1 cup Curd (Room temp)",
+      "1/2 cup Water",
+      "1 tbsp Ginger-green chilli paste",
+      "1/2 tsp Sugar",
+      "Salt to taste",
+      "1/4 cup Sweet corn (boiled)",
+      "Small Carrot (grated)",
+      "1/4 cup Capsicum (chopped)",
+      "1 tsp Eno or Cooking soda",
+      "Tempering: 1 tbsp Oil, 1 tsp Mustard seeds, 4 slit Green chillies, 1 tsp White sesame seeds, Curry leaves, Coriander, Pinch of Hing"
+    ],
+    "instructions": [
+      "In a bowl, mix Sooji, curd, and water to make a batter. Add ginger-green chilli paste, sugar, and salt. Mix well and rest for 15-20 mins.",
+      "Heat oil in a pan, shallow fry jeera, grated carrot, and chopped capsicum, then add to the batter along with boiled sweet corn.",
+      "Adjust batter consistency with water if too tight, then mix in Eno/Cooking soda with 1 tsp water.",
+      "Grease an idli or dhokla plate, pour batter (leave half space for it to rise), and steam for 15-20 mins.",
+      "Test with a fork; if clean, remove and let cool before cutting into pieces.",
+      "Prepare tempering: heat oil, add mustard seeds, curry leaves, slit green chillies, sesame seeds, and hing. Pour over the cut dhokla. Garnish with coriander."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Spinach Soup",
+    "category": "Soups",
+    "image": "spinach-soup.jpg",
+    "description": "An immunity-boosting, iron-rich creamy soup made with fresh spinach, garlic, and whole spices.",
+    "ingredients": [
+      "2 big bunches Spinach (Palakura)",
+      "1 Liter Water (for boiling)",
+      "1 tsp Oil/Ghee",
+      "4 cloves Garlic",
+      "1/2 tsp Ginger",
+      "1/2 tsp Jeera & 1/2 tsp Jeera powder",
+      "1 Green chilli",
+      "2 Cloves & 2 Green cardamom (Elaichi)",
+      "1 Biryani leaf & 1 inch Cinnamon",
+      "1 tsp Wheat flour (or Jowar flour)",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Boil 1 liter of water. Blanch spinach leaves in boiling water for 3 mins, then immediately transfer to cold water.",
+      "Grind blanched spinach leaves, ginger, garlic, jeera, and green chilli into a smooth paste.",
+      "Heat a pan, add 1 tsp wheat/jowar flour and dry roast.",
+      "Add the spinach paste and mix well on medium flame. Add 500ml water, salt, cloves, cardamom, biryani leaf, and cinnamon.",
+      "Boil for 4 mins until it thickens slightly. Strain if desired and serve hot."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Bread Sticks",
+    "category": "Snacks",
+    "image": "bread-sticks.jpg",
+    "description": "Crispy shallow-fried bread sticks coated in a spiced potato and sooji batter, topped with cheese.",
+    "ingredients": [
+      "4 Bread slices",
+      "1/4 tsp Turmeric, 1/2 tsp Chilli powder, 1/2 tsp Chat Masala, 1/2 tsp Garam Masala, 1/2 tsp Coriander powder",
+      "Salt to taste",
+      "2 Boiled potatoes (70-80% cooked and mashed)",
+      "1/2 tsp Jeera powder",
+      "Medium Onion (finely chopped)",
+      "1/3 cup Sooji rava & 1/3 cup Maida/Wheat flour",
+      "1/2 tsp Ajwain (crushed)",
+      "Cheese (grated) and Chilli flakes"
+    ],
+    "instructions": [
+      "In a bowl, mix all spice powders, finely chopped onions, and mashed potatoes to make a thick curry.",
+      "In another bowl, mix Sooji, Maida/Wheat flour, salt, chilli powder, crushed ajwain, and water to make a bajji-like batter.",
+      "Cut the edges off the bread slices.",
+      "Spread the potato curry evenly over a bread slice and cut into cubes or sticks.",
+      "Dip the coated bread sticks into the sooji batter.",
+      "Shallow fry in a pan on all 4 sides until crispy. Garnish with grated cheese and chilli flakes."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Tomato Soup",
+    "category": "Soups",
+    "image": "tomato-soup.jpg",
+    "description": "A rich, classic tomato soup enhanced with beetroot for deep color, flavored with biryani leaf and served with bread croutons.",
+    "ingredients": [
+      "2 tbsp Butter",
+      "400gms Tomatoes (chopped)",
+      "3 Garlic cloves (chopped)",
+      "Small Beetroot pieces (5-6)",
+      "2 tbsp Onion (chopped)",
+      "1 tsp Sugar",
+      "1/2 tsp Jeera powder",
+      "600ml Water",
+      "1 Biryani Leaf",
+      "1/2 tsp Black pepper & 1/2 tsp Garam masala",
+      "1 tbsp Fresh Cream",
+      "Salt to taste",
+      "Bread cubes for croutons"
+    ],
+    "instructions": [
+      "Heat butter in a pan, add chopped garlic, onions, and biryani leaf. Fry until the raw smell disappears.",
+      "Add beetroot pieces and fry briefly. Add chopped tomatoes and cook for 2-3 mins.",
+      "Add salt and sugar, mix well, and add 1 glass of water. Boil until tomatoes are very soft.",
+      "Turn off the stove, remove the biryani leaf, and let it cool. Grind into a smooth puree and strain it.",
+      "Heat another pan, add the strained puree, garam masala, jeera powder, black pepper powder, and salt. Boil until thick.",
+      "Serve hot with fresh cream and shallow-fried bread croutons."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Crispy French Fries",
+    "category": "Snacks",
+    "image": "fries.jpg",
+    "description": "Homemade crispy fries coated in corn flour and tossed in a special garlic, oregano, and chat masala spice mix.",
+    "ingredients": [
+      "2 medium size Potatoes (60% cooked and grated/mashed)",
+      "1 tsp Chat masala",
+      "4-6 tbsp Corn flour",
+      "Salt to taste",
+      "Seasoning mix: 1 tsp Salt, 1 tsp Jeera powder, 1/2 tsp Chat masala, 1/2 tsp Oregano, 1/2 tsp Garlic powder"
+    ],
+    "instructions": [
+      "Mix the grated/mashed semi-cooked potatoes with corn flour, chat masala, and salt. Knead into a chapati-like dough (do not add water).",
+      "Keep it in the fridge for 30 minutes.",
+      "Take it out, roll it into a 1/2 inch thick flat shape, and cut into fry shapes.",
+      "Deep fry or shallow fry until crispy.",
+      "Mix all the seasoning ingredients together and sprinkle over the hot fries."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Macaroni Kurkure",
+    "category": "Snacks",
+    "image": "kurkure.jpg",
+    "description": "A crunchy, deep-fried snack made from boiled macaroni coated in corn flour and spices.",
+    "ingredients": [
+      "100gms Macaroni",
+      "1-1.5 tbsp Corn flour",
+      "1 tbsp Maida/Wheat flour",
+      "Salt to taste",
+      "Oil for deep frying",
+      "Spice mix: 1 tsp Kashmiri red chilli, 1/2 tsp Jeera powder, 1 tsp Chat masala, 1/2 tsp Amchur powder, 1/2 tsp Pepper powder, 1/4 tsp Garam masala, 1/4 tsp Garlic powder, 1/2 tsp Black salt, 1/4 tsp Aromatic powder"
+    ],
+    "instructions": [
+      "Boil macaroni until soft but not broken. Drain hot water, rinse with cold water, and spread on a plate to dry slightly.",
+      "Coat the boiled macaroni evenly with salt, corn flour, maida, and a pinch of pepper powder.",
+      "Deep fry in hot oil until very crispy.",
+      "In a small bowl, mix all the ingredients for the spice mix.",
+      "Toss the hot, fried macaroni in the spice mix until well coated."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Ragi Soup",
+    "category": "Soups",
+    "image": "ragi-soup.jpg",
+    "description": "A highly nutritious, warm soup thickened with ragi flour, featuring crunchy beans, carrots, and spring onions.",
+    "ingredients": [
+      "1 tbsp Butter",
+      "1 small Onion (chopped)",
+      "1 tbsp Beans (chopped)",
+      "1 small Carrot (chopped)",
+      "Spring onions",
+      "2 Garlic cloves (chopped)",
+      "1 tsp Pepper powder",
+      "1/2 tsp Aromatic powder",
+      "1 tbsp Ragi flour (mixed with water)",
+      "1.5 cups Water",
+      "Lemon juice (few drops)",
+      "Fresh Coriander",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat butter in a pan. Add chopped onions and fry.",
+      "Add chopped garlic, beans, carrot, and spring onions, and sauté well.",
+      "Add 1.5 cups of water and bring to a boil.",
+      "Mix ragi flour with a little water in a cup to avoid lumps. Pour the ragi mixture into the boiling soup and stir continuously.",
+      "Add pepper powder, salt, and aromatic powder.",
+      "Turn off the stove, garnish with fresh coriander, and squeeze a few drops of lemon juice before serving."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Beetroot Soup",
+    "category": "Soups",
+    "image": "beetroot-soup.jpg",
+    "description": "A vibrant, beautiful soup made from beetroot, onions, and garlic, gently spiced with whole peppercorns.",
+    "ingredients": [
+      "1 tsp Butter",
+      "1 inch Ginger piece",
+      "Medium Onion (chopped)",
+      "5-6 Garlic cloves",
+      "1 Biryani leaf",
+      "4-5 Black peppercorns & 1 tsp Jeera",
+      "2 medium Beetroots (chopped)",
+      "1 Carrot (optional)",
+      "2 cups Water",
+      "1-1.5 tsp Corn flour",
+      "Salt to taste",
+      "Fresh cream (for garnish)"
+    ],
+    "instructions": [
+      "Heat butter in a pressure cooker. Sauté ginger, onion, and garlic.",
+      "Add biryani leaf, black peppercorns, and jeera, and fry well.",
+      "Add chopped beetroot and carrot pieces. Fry thoroughly, then add 1.5 cups of water.",
+      "Pressure cook for 3-4 whistles. Let it cool to room temperature.",
+      "Remove the biryani leaf and peppercorns, then transfer to a mixer jar and grind into a smooth paste.",
+      "Strain the puree with an additional 1/2 cup of water.",
+      "Heat the strained liquid in a pan, bring to a boil, and thicken with corn flour mixed with water. Season with salt.",
+      "Serve hot garnished with coriander and spring onions."
+    ]
+  }
+]
